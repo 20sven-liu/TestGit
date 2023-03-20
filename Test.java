@@ -6,5 +6,6 @@ public class Test{
         System.out.println("second write");
         // write in login branch  
         System.out.println("write in login branch");
+        // 测试 git pull 命令 远程拉取 代码
     }
 }
